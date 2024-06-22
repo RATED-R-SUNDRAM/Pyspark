@@ -13,6 +13,9 @@ data = [
     ("D",40,"eat"),
 ]
 
+
 schemma =['NAME','AGE','HOBBY']
 df =spark.DataFrame(data,schemma)
 # %%
+# data manipulation
+
